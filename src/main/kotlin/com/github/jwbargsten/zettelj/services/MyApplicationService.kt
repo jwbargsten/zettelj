@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jwbargsten.zettelj.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jwbargsten.zettelj.MyBundle
 
 class MyApplicationService {
 
